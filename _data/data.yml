@@ -57,13 +57,14 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Data analyst with 4+ years of experience interpreting and analyzing data to drive successful business solutions. 
-      Proficient knowlegde in statistics, mathematics and analytics.
+      Analista de datos con 4+ años de experiencia interpretando y 
+      analizando datos para impulsar soluciones empresariales exitosas. 
+      Conocimientos sólidos en estadísticas, matemáticas y análisis.
       
 education:
     title: Educación
     info:
-      - degree: Diplomado en Data Analysis
+      - degree: Diplomado en Análisis de Datos
         university: Universidad Comunera
         time: 2021 - 2022
         details: |
@@ -88,9 +89,10 @@ experiences:
           para ayuda académica entre estudiantes. Como resultado se presentaron y publicaron dos papers que se presentaron a nivel internacional.
           
           Herramientas: KNIME, MongoDB, Microsoft Excel, Microsoft Word, Tableau, HTML, Figma, Notion, Latex.
-            - Conducted feasibility analysis and defined specifications for the development of a student assistance application.
-            - Developed and integrated the application into the WeNet international platform.
-            - Implemented and analyzed qualitative and quantitative evaluation methods, including Focus Group and Exit Survey.
+            - Análisis de viabilidad y especificaciones para desarrollo de aplicación de ayuda entre estudiantes universitarios.
+            - Desarrollo e integración de una aplicación a la plataforma internacional WeNet.
+            - Implementación y análisis de métodos evaluación cualitativos y cuantativos: Focus Group, Exit Survey.
+            - ETL, análisis y elaboración de reportes en MongoDB (Atlas).
       - role: Analista de datos, BI
         time: 2019 - 2023
         company: Electroban S.A.E.C.A.
@@ -99,17 +101,18 @@ experiences:
           cuyo aportes principales estuvieron en la creación y mantenimiento de tableros 
           gerenciales y operativos para áreas de Cobranzas, Compras, Ventas  y Riesgo Crediticio.
           
-          Herramientas: QlikView, Qlik Sense, Power BI, KNIME, SQL Server, Oracle, Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
-            - QlikView and Qlik Sense server maintenance (Example: server upgrade, free up disk space, resource allocation if necessary).
-            - Develop and maintenance dashboards in QlikView and Qlik Sense.
-            - QlikView and Qlik Sense server license management.
-            - Training users on QlikView and Qlik Sense dashboards.
-            - Training users on the use of Power BI Desktop and Power BI online from the Office 365 license.
-            - Extraction and analysis of data from SQL Server and Oracle databases.
-            - Preparation of requirement documents for the implementation of internal development projects or projects from suppliers.
-            - Analysis of technological requirements for internal clients (for the different departments of the company).
-            - Dialogue with service providers and analysis of the implementation of new technologies.
-            - Analysis of Google Analytics metrics and social media data in Facebook Analytics.
+          Herramientas: QlikView, Qlik Sense, Power BI (DAX), KNIME, SQL Server (SQL), Oracle Database (PL SQL), Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
+            - Mantenimiento proactivo de servidores QlikView y Qlik Sense, realizando actualizaciones, gestionando espacio y analizando asignación de recursos para garantizar un rendimiento óptimo.
+            - Creación y mantenimiento de tableros intuitivos en QlikView, Qlik Sense y PowerBI.
+            - Administración de licencias de servidores QlikView y Qlik Sense, asegurando conformidad y eficiencia en el uso de recursos.
+            - Formación de usuarios para uso de cuadros de mando en QlikView y Qlik Sense.
+            - Capacitación de usuarios para realizar análisis en Power BI de forma autónoma.
+            - Diseño y modelado de datos (copo de nieve o estrella).
+            - Extracción de datos en bases de datos SQL Server, Oracle y herramientas de visualización de datos (KNIME, QlikView, Qlik Sense, Power BI).
+            - Evaluación e implementación de nuevas tecnologías, manteniendo un diálogo efectivo con proveedores de servicios para garantizar soluciones actualizadas y eficientes.
+            - Análisis de requerimientos tecnológicos para diferentes departamentos de la empresa, facilitando una implementación efectiva de soluciones adaptadas a las necesidades específicas de cada área.
+            - Elaboración de documentos de requerimientos para proyectos de desarrollo interno o con proveedores, asegurando una ejecución eficiente y alineada con los objetivos estratégicos de la empresa.
+            - Análisis de métricas de Google Analytics e interpretación de datos de redes sociales a través de Facebook Analytics.
 
 certifications:
       title: Certificaciones
