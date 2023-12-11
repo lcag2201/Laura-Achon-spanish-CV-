@@ -190,21 +190,21 @@ projects:
 oss:
     title: Experiencia en enseñanza #OSS Contributions
     intro: >
-      Experience teaching and grading university students in the Systems Analysis
-      program at Nuestra Señora de la Asunción Catholic University from January to December 2018.
+      Experiencia enseñando y calificando alumnos universitarios de la carrera Análisis de Sistemas 
+      de la Universidad Católica Nuestra Señora de la Asunción de enero a diciembre del 2018.
     contributions:
       - title: Python
         link: "#"
-        tagline: "Tutored a visually impaired university student in Python to help them understand and pass their courses."
+        tagline: "Experiencia como tutora de Python a un estudiante universitario no vidente para que logre comprender y aprobar sus materias."
 
       - title: Visual Basic
         link: "#"
-        tagline: "Tutored university students in Visual Basic."
+        tagline: "Experiencia como tutora de Visual Basic a estudiantes universitarios."
 
 publications:
-    title: Publications
+    title: Publicationes
     intro: |
-      Publications derived from the International Project WeNet: Internet of Us.
+      Publicaciones científicas derivadas de mi participación en el Proyecto Internacional WeNet: Internet of Us.
     papers:
       - title: SOS TUTORIA UC A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
