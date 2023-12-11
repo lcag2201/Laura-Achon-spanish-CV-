@@ -125,8 +125,8 @@ certifications:
           credentialurl: www.udemy.com
           credentialname: Certificado
           details: |
-            This course is an introduction to SQL and PowerBI.
-            Upon completion, I have acquired knowledge in the following areas:
+            Este curso es una introducción a SQL y PowerBI.
+            Donde se reforzaron conocimientos en los siguientes temas:
             - Consultas SQL
             - Creación de Store Procedure
             - Creación de Tablas
@@ -162,20 +162,20 @@ certifications:
           credentialname: Certificado
           details: |
             Este curso es una introducción a QlikView Desktop para el Desarrollador. 
-            Donde se aprendieron los siguientes temas:
-                - El entorno QlikView
-                - La metodología de procesos de desarrollo en QlikView
-                - Despliegue
-                - Introducción a los datos y al script
-                - Sintaxis básica de script
-                - Cargar datos de la base de datos
-                - Modelo básico de datos y visor de tablas
-                - Estructuración del script
-                - Transformación básica de datos
-                - Incorporación de datos de texto
-                - Generación de datos en el script de carga QlikView
-                - Consideraciones acerca del script, referencias circulares y tablas de clave sintética
-                - Cuestiones básicas de diseño para desarrolladores 
+            Donde se reforzaron conocimientos en los siguientes temas:
+            - El entorno QlikView
+            - La metodología de procesos de desarrollo en QlikView
+            - Despliegue
+            - Introducción a los datos y al script
+            - Sintaxis básica de script
+            - Cargar datos de la base de datos
+            - Modelo básico de datos y visor de tablas
+            - Estructuración del script
+            - Transformación básica de datos
+            - Incorporación de datos de texto
+            - Generación de datos en el script de carga QlikView
+            - Consideraciones acerca del script, referencias circulares y tablas de clave sintética
+            - Cuestiones básicas de diseño para desarrolladores 
 
 
 projects:
