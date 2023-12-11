@@ -55,52 +55,51 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-      Data analyst with 4+ years of experience interpreting and analyzing data 
-      to drive successful business solutions. Proficient knowlegde in statistics,
-      mathematics and analytics.
+      Data analyst with 4+ years of experience interpreting and analyzing data to drive successful business solutions. 
+      Proficient knowlegde in statistics, mathematics and analytics.
+      
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: Diploma in Data Analysis
-        university: University Comunera
+      - degree: Diplomado en Data Analysis
+        university: Universidad Comunera
         time: 2021 - 2022
         details: |
-            Tools: Power BI, KNIME, SQL Server, Microsoft Excel.
-      - degree: Software Engineer and Bachelor of Science in Computer Science
-        university: Catholic University Nuestra Señora de la Asunción
+            Herramientas: Power BI, KNIME, SQL Server, Microsoft Excel.
+      - degree: Ingeniera Informática y Licenciada en Informática
+        university: Universidad Católica Nuestra Señora de la Asunción
         time: 2014 - 2019
         details: |
-            Tools: Tableau, KNIME, Microsoft Excel, Microsoft Word, Python, Mongo DB, PostgreSQL, Power Designer.
+            Herramientas: Tableau, KNIME, Microsoft Excel, Microsoft Word, Python, Mongo DB, PostgreSQL, Power Designer.
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Researcher, Data Analyst
-        time: 2022 - Present
+      - role: Investigadora, Analista de datos
+        time: 2022 - Presente
         company: WeNet UC
         details: |
-          The international project WeNet (https://www.internetofus.eu/), 
-          funded by the European Commission, aims to harness technology to leverage
-          the diversity of social heritages, experiences, and interests within a 
-          community for the benefit of all. During my involvement in this project, 
-          we designed, developed, and evaluated a vertical application (https://sos-tutoria-uc-web.vercel.app/)
-          for academic assistance among students. As a result, two papers were written and presented at an international level.
+          El proyecto internacional WeNet (https://www.internetofus.eu/), 
+          financiado por la Comisión Europea, tiene como objetivo aprovechar la tecnología para capitalizar 
+          la diversidad de herencias sociales, experiencias e intereses en una comunidad para el beneficio de todos. 
+          Durante la participación se diseñó, desarrolló y evaluó una aplicación vertical (https://sos-tutoria-uc-web.vercel.app/) 
+          para ayuda académica entre estudiantes. Como resultado se presentaron y publicaron dos papers que se presentaron a nivel internacional.
           
-          Tools: KNIME, MongoDB, Microsoft Excel, Microsoft Word, Tableau, HTML, Figma, Notion, Latex.
+          Herramientas: KNIME, MongoDB, Microsoft Excel, Microsoft Word, Tableau, HTML, Figma, Notion, Latex.
             - Conducted feasibility analysis and defined specifications for the development of a student assistance application.
             - Developed and integrated the application into the WeNet international platform.
             - Implemented and analyzed qualitative and quantitative evaluation methods, including Focus Group and Exit Survey.
-      - role: Data Analyst, BI
+      - role: Analista de datos, BI
         time: 2019 - 2023
         company: Electroban S.A.E.C.A.
         details: |
-          I led the BI department at Electroban, a significant retail sector company, where my key contributions were in the 
-          creation and maintenance of managerial and operational dashboards for the areas of Collections, Purchasing, Sales, 
-          and Credit Risk.
+          Lideré el área de BI en Electroban, una empresa importante del sector retail,
+          cuyo aportes principales estuvieron en la creación y mantenimiento de tableros 
+          gerenciales y operativos para áreas de Cobranzas, Compras, Ventas  y Riesgo Crediticio.
           
-          Tools: QlikView, Qlik Sense, Power BI, KNIME, SQL Server, Oracle, Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
+          Herramientas: QlikView, Qlik Sense, Power BI, KNIME, SQL Server, Oracle, Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
             - QlikView and Qlik Sense server maintenance (Example: server upgrade, free up disk space, resource allocation if necessary).
             - Develop and maintenance dashboards in QlikView and Qlik Sense.
             - QlikView and Qlik Sense server license management.
@@ -113,7 +112,7 @@ experiences:
             - Analysis of Google Analytics metrics and social media data in Facebook Analytics.
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
         - name: Basic SQL Server Course and Introduction to Power BI
           start: 2023
