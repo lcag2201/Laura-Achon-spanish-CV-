@@ -2,15 +2,15 @@
 
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://lcag2201.github.io/Laura-Achon-spanish-CV-/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: A beautiful Jekyll theme for creating resume
+description: Bienvenido a mi CV en español.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
