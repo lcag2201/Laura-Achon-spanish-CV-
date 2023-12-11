@@ -31,19 +31,19 @@ sidebar:
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: Spanish
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: English
-          level: Professional
+        - idiom: Inglés
+          level: Profesional
 
-        - idiom: Italian
+        - idiom: Italiano
           level: A2
 
     interests:
-      title: Interests
+      title: Intereses
       info:
         - item: Data Mining
           link:
