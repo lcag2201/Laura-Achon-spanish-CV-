@@ -117,20 +117,20 @@ experiences:
 certifications:
       title: Certificaciones
       list:
-        - name: Basic SQL Server Course and Introduction to Power BI
+        - name: Curso Básico de SQL Server e Introducción a Power BI
           start: 2023
           end:
           organization: Udemy
           credentialid: #111-222
           credentialurl: www.udemy.com
-          credentialname: Certificate
+          credentialname: Certificado
           details: |
             This course is an introduction to SQL and PowerBI.
             Upon completion, I have acquired knowledge in the following areas:
-            - Make SQL querys
-            - Create Store Procedure
-            - Create Tables
-            - CRUD for Store Procedure
+            - Consultas SQL
+            - Creación de Store Procedure
+            - Creación de Tablas
+            - CRUD para Store Procedure
             - PowerBI
 
         - name: Python
@@ -139,43 +139,44 @@ certifications:
           organization: Kagle
           credentialid: #111-222
           credentialurl: www.kagle.com
-          credentialname: Certificate
+          credentialname: Certificado
           details: |
             Tool: Figma
             
-        - name: UX Design Basic Concepts for Beginners
+        - name: UX Design, Conceptos básicos para principiantes
           start: 2022
           end: 
           organization: Udemy
           credentialid: #111-222
           credentialurl: www.udemy.com
-          credentialname: Certificate
+          credentialname: Certificado
           details: |
             Tool: Figma
             
-        - name: Trained in QlikView Developer I and QlikView Developer II
+        - name: Capacitación en QlikView Developer I y QlikView Developer II
           start: 2019
           end:
-          organization: Data Analyst Richard Alcaraz
+          organization: Analista de datos Richard Alcaraz
           credentialid: #111-222
           credentialurl: www.google.com
-          credentialname: Certificate
+          credentialname: Certificado
           details: |
-            This course is an introduction to QlikView Desktop for Developers. 
-            Upon completion, I have acquired knowledge in the following areas: 
-            - The QlikView environment
-            - Development process methodology in QlikView
-            - Deployment
-            - Introduction to data and script
-            - Basic script syntax
-            - Loading data from the database
-            - Basic data modeling and table viewer
-            - Script structuring
-            - Basic data transformation
-            - Incorporating text data
-            - Generating data in the QlikView load script
-            - Considerations regarding script, circular references, and synthetic key tables
-            - Fundamental design principles for developers
+            Este curso es una introducción a QlikView Desktop para el Desarrollador. 
+            Donde se aprendieron los siguientes temas:
+                - El entorno QlikView
+                - La metodología de procesos de desarrollo en QlikView
+                - Despliegue
+                - Introducción a los datos y al script
+                - Sintaxis básica de script
+                - Cargar datos de la base de datos
+                - Modelo básico de datos y visor de tablas
+                - Estructuración del script
+                - Transformación básica de datos
+                - Incorporación de datos de texto
+                - Generación de datos en el script de carga QlikView
+                - Consideraciones acerca del script, referencias circulares y tablas de clave sintética
+                - Cuestiones básicas de diseño para desarrolladores 
+
 
 projects:
     title: Project
