@@ -3,263 +3,242 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Laura Achón
+    tagline: Data Analyst
+    avatar: memoji.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: laura.achon@hotmail.com
+    phone: 685 326 288
+    timezone: Europe/Madrid Timezone
+    citizenship: #paraguayan
+    website: #https://public.tableau.com/app/profile/l.a1767/vizzes #blog.webjeda.com #do not add http://
+    linkedin: lauraachong
+    xing: #alandoe
+    github: lcag2201
+    telegram: lcachon # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: A2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Data Mining
           link:
 
-        - item: Snowboarding
+        - item: Machine Learning
           link:
 
-        - item: Cooking
+        - item: UX UI
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Data analyst with 4+ years of experience interpreting and analyzing data 
+      to drive successful business solutions. Proficient knowlegde in statistics,
+      mathematics and analytics.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diploma in Data Analysis
+        university: University Comunera
+        time: 2021 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            Tools: Power BI, KNIME, SQL Server, Microsoft Excel.
+      - degree: Software Engineer and Bachelor of Science in Computer Science
+        university: Catholic University Nuestra Señora de la Asunción
+        time: 2014 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Tools: Tableau, KNIME, Microsoft Excel, Microsoft Word, Python, Mongo DB, PostgreSQL, Power Designer.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Researcher, Data Analyst
+        time: 2022 - Present
+        company: WeNet UC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          The international project WeNet (https://www.internetofus.eu/), 
+          funded by the European Commission, aims to harness technology to leverage
+          the diversity of social heritages, experiences, and interests within a 
+          community for the benefit of all. During my involvement in this project, 
+          we designed, developed, and evaluated a vertical application (https://sos-tutoria-uc-web.vercel.app/)
+          for academic assistance among students. As a result, two papers were written and presented at an international level.
+          
+          Tools: KNIME, MongoDB, Microsoft Excel, Microsoft Word, Tableau, HTML, Figma, Notion, Latex.
+            - Conducted feasibility analysis and defined specifications for the development of a student assistance application.
+            - Developed and integrated the application into the WeNet international platform.
+            - Implemented and analyzed qualitative and quantitative evaluation methods, including Focus Group and Exit Survey.
+      - role: Data Analyst, BI
+        time: 2019 - 2023
+        company: Electroban S.A.E.C.A.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I led the BI department at Electroban, a significant retail sector company, where my key contributions were in the 
+          creation and maintenance of managerial and operational dashboards for the areas of Collections, Purchasing, Sales, 
+          and Credit Risk.
+          
+          Tools: QlikView, Qlik Sense, Power BI, KNIME, SQL Server, Oracle, Microsoft Excel, Microsoft Word, Google Analytics, Facebook Business.
+            - QlikView and Qlik Sense server maintenance (Example: server upgrade, free up disk space, resource allocation if necessary).
+            - Develop and maintenance dashboards in QlikView and Qlik Sense.
+            - QlikView and Qlik Sense server license management.
+            - Training users on QlikView and Qlik Sense dashboards.
+            - Training users on the use of Power BI Desktop and Power BI online from the Office 365 license.
+            - Extraction and analysis of data from SQL Server and Oracle databases.
+            - Preparation of requirement documents for the implementation of internal development projects or projects from suppliers.
+            - Analysis of technological requirements for internal clients (for the different departments of the company).
+            - Dialogue with service providers and analysis of the implementation of new technologies.
+            - Analysis of Google Analytics metrics and social media data in Facebook Analytics.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Basic SQL Server Course and Introduction to Power BI
+          start: 2023
+          end:
+          organization: Udemy
+          credentialid: #111-222
+          credentialurl: www.udemy.com
+          credentialname: Certificate
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            This course is an introduction to SQL and PowerBI.
+            Upon completion, I have acquired knowledge in the following areas:
+            - Make SQL querys
+            - Create Store Procedure
+            - Create Tables
+            - CRUD for Store Procedure
+            - PowerBI
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Python
+          start: 2022
+          end: 
+          organization: Kagle
+          credentialid: #111-222
+          credentialurl: www.kagle.com
+          credentialname: Certificate
+          details: |
+            Tool: Figma
+            
+        - name: UX Design Basic Concepts for Beginners
+          start: 2022
+          end: 
+          organization: Udemy
+          credentialid: #111-222
+          credentialurl: www.udemy.com
+          credentialname: Certificate
+          details: |
+            Tool: Figma
+            
+        - name: Trained in QlikView Developer I and QlikView Developer II
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Data Analyst Richard Alcaraz
+          credentialid: #111-222
+          credentialurl: www.google.com
+          credentialname: Certificate
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            This course is an introduction to QlikView Desktop for Developers. 
+            Upon completion, I have acquired knowledge in the following areas: 
+            - The QlikView environment
+            - Development process methodology in QlikView
+            - Deployment
+            - Introduction to data and script
+            - Basic script syntax
+            - Loading data from the database
+            - Basic data modeling and table viewer
+            - Script structuring
+            - Basic data transformation
+            - Incorporating text data
+            - Generating data in the QlikView load script
+            - Considerations regarding script, circular references, and synthetic key tables
+            - Fundamental design principles for developers
 
 projects:
-    title: Projects
+    title: Project
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Example dashboards
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Tableau
+        link: "https://public.tableau.com/app/profile/l.a1767/vizzes"
+        tagline: "Created using the Tableau Public tool"
 
 oss:
-    title: OSS Contributions
+    title: Teaching experience #OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Experience teaching and grading university students in the Systems Analysis
+      program at Nuestra Señora de la Asunción Catholic University from January to December 2018.
     contributions:
-      - title: Tempo
+      - title: Python
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Tutored a visually impaired university student in Python to help them understand and pass their courses."
 
-      - title: Atom
+      - title: Visual Basic
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Tutored university students in Visual Basic."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications derived from the International Project WeNet: Internet of Us.
     papers:
-      - title: The Art of Computer Programming
+      - title: SOS TUTORIA UC A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
+        conference: "XLIX Latin American Computer Conference (CLEI), 2023, La Paz Bolivia , October 2023 (to be published)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "A Diversity-Aware Application for Tutor Recommendation Based on Competence and Personality (Short Paper)"
+        link: "https://ceur-ws.org/Vol-3456/short5-8.pdf"
+        authors: Achón, L., De Souza, A., Hume, A., Chenu Abente, R., Gotzen, A., Cernuzzi, L.
+        conference: "Workshop on Diversity-Aware Hybrid Human-Artificial Intelligence (HHAI), Munich, June 2023: 243-247."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: A Diversity-Aware Recommendation System for Tutoring
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Achón, L., De Souza, A., Hume, A., Cernuzzi, L.
+        conference: "Special Issue on “Human‐Aware Artificial Intelligence” for the AI Communications: The European Journal on AI"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: QlikView & Qlik Sense
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Excel & Word
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: PowerBI & Tableau
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: PL & SQL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MongoDB
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Laura Achon</a>
