@@ -141,7 +141,7 @@ certifications:
           credentialurl: www.kagle.com
           credentialname: Certificado
           details: |
-            Tool: Figma
+            Tool: Python
             
         - name: UX Design, Conceptos básicos para principiantes
           start: 2022
