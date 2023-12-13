@@ -117,6 +117,31 @@ experiences:
 certifications:
       title: Certificaciones
       list:
+        - name: Estadística para Ciencia de datos y Análisis Financiero
+          start: 2023
+          end:
+          organization: Udemy
+          credentialid: #111-222
+          credentialurl: www.udemy.com
+          credentialname: En proceso
+          details: |
+            EEste curso me permite aprender habilidades fundamentales de estadística que me permitirán comprender 
+            análisis estadísticos complejos directamente aplicables a situaciones de la vida real. 
+            Al completarlo, adquiriré conocimientos en las siguientes áreas:
+            - Comprender los fundamentos de la estadística
+            - Aprender a trabajar con diferentes tipos de datos
+            - Cómo representar gráficamente diferentes tipos de datos
+            - Calcular medidas de tendencia central, asimetría y variabilidad
+            - Calcular correlación y covarianza
+            - Distinguir y trabajar con diferentes tipos de distribuciones
+            - Estimar intervalos de confianza
+            - Realizar pruebas de hipótesis
+            - Tomar decisiones basadas en datos
+            - Comprender los fundamentos del análisis de regresión
+            - Realizar análisis de regresión
+            - Utilizar y comprender variables dummy
+            - Comprender los conceptos necesarios para la ciencia de datos, incluso con Python y R
+            
         - name: Curso Básico de SQL Server e Introducción a Power BI
           start: 2023
           end:
