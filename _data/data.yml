@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: laura.achon@hotmail.com
     phone: +595 982 547 988
-    timezone: Europe/Madrid Timezone
+    timezone: #Europe/Madrid Timezone
     citizenship: #paraguayan
     website: #https://public.tableau.com/app/profile/l.a1767/vizzes #blog.webjeda.com #do not add http://
     linkedin: lauraachong
@@ -37,7 +37,7 @@ sidebar:
           level: Nativo
 
         - idiom: Inglés
-          level: Profesional
+          level: B1
 
         - idiom: Italiano
           level: A2
